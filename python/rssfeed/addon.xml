@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon>
+<id>rssfeed</id>
+<label>@string/label</label>
+<version>1.0</version>
+
+<dependencies>
+	<module name="requests" version="2.23.0" />
+</dependencies>
+
+<strings>
+	<string name="label">RSS Feed</string>
+	<string name="add">Add</string>
+	<string name="remove">Remove</string>
+	<string name="input">Please input RSS</string>
+</strings>
+
+<strings-ru>
+	<string name="label">Лента новостей</string>
+	<string name="add">Добавить</string>
+	<string name="remove">Удалить</string>
+	<string name="input">Введите RSS ссылку</string>
+</strings-ru>
+
+</addon>
