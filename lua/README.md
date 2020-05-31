@@ -23,7 +23,7 @@
     7.10. [Функции библиотеки Zlib (>=0.3.2)](#710-функции-библиотеки-zlib)  
     7.11. [Выполнение программ на языке Python (>=0.3.3)](#711-выполнение-программ-на-языке-python)
 8. [Общие модули Lua](#8-общие-модули-lua)
-9. [Пример дополнения "Лента новостей"](https://github.com/mediacenter-docs/mediacenter-docs.github.io/tree/master/lua/rssfeed)
+9. <a href="https://github.com/mediacenter-docs/mediacenter-docs.github.io/tree/master/lua/rssfeed" target="_blank">Пример дополнения "Лента новостей</a>
 
 ## 1. Общие сведения
 

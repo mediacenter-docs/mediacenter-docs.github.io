@@ -11,7 +11,7 @@
 5. [Формирование ответа на запрос пользователя](#5-формирование-ответа-на-запрос-пользователя)
 6. [Формирование информации об элементе списка или телепрограммы EPG](#6-формирование-информации-об-элементе-списка-или-телепрограммы-epg)
 7. [Список дополнительных модулей Python](#7-список-дополнительных-модулей-python)
-8. [Пример дополнения "Лента новостей"](https://github.com/mediacenter-docs/mediacenter-docs.github.io/tree/master/python/rssfeed)
+8. <a href="https://github.com/mediacenter-docs/mediacenter-docs.github.io/tree/master/python/rssfeed" target="_blank">Пример дополнения "Лента новостей</a>
 
 ## 1. Общие сведения
 
