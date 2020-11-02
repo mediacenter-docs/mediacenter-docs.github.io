@@ -1,5 +1,18 @@
 # "Mediacenter" - Changelog
 
+## Version: 0.3.4
+
+- Added new video player (use as default) based on VLC library, which additions: playing  DVD / Blu-ray disk images; internal and external subtitles; external audio tracks; more settings
+- Previous video player is named as "lite"
+- Added "Favorites" to creating own playlists
+- Fixed HLS recording via https protocol
+- Fixed consecutive playing of audio from http(s) streams
+- Fixed TV program loader
+- Fixed FTP client
+- Added internal picture viewer
+- Added internal text viewer for plain text
+- Other changes
+
 ## Version: 0.3.3
 
 - Fixed watching huge playlist
