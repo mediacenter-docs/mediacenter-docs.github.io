@@ -11,6 +11,8 @@
 - Fixed FTP client
 - Added internal picture viewer
 - Added internal text viewer for plain text
+- Added process subdirectories at consecutive video playing
+- Added new view with detailed of selected element
 - Other changes
 
 ## Version: 0.3.3
