@@ -9,7 +9,7 @@
 - Fixed consecutive playing of audio from http(s) streams
 - Fixed TV program loader
 - Fixed FTP client
-- Added internal picture viewer
+- Added internal picture viewer and GIF animations
 - Added internal text viewer for plain text
 - Added process subdirectories at consecutive video playing
 - Added new view with detailed of selected element
