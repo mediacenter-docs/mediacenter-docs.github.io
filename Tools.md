@@ -22,7 +22,7 @@
 
 ## Установка
 
-- Скачайте установочный пакет [mediacenter-tools-0.3.3-win32.msi](http://files.iconbit.com/IMC/tools/mediacenter-tools-0.3.3-win32.msi)
+- Скачайте установочный пакет [mediacenter-tools-0.3.4-win32.msi](http://files.iconbit.com/IMC/tools/mediacenter-tools-0.3.4-win32.msi) (старая версия [mediacenter-tools-0.3.3-win32.msi](http://files.iconbit.com/IMC/tools/mediacenter-tools-0.3.3-win32.msi))
 - Запустите пакет и в окне приветствия нажмите "Далее"
 
 ![Приветствие](images/install1.png)
