@@ -1,5 +1,21 @@
 # "Mediacenter" - Changelog
 
+## Version: 0.3.5
+
+- UI updated: background choice, icons, grouped, grid increase
+- Added "Search" to fast find
+- VLC library updated and fixed seeking WEBM (YouTube)
+- Fixed torrent file opening
+- Added a new feature as "Extensions"
+- Added a new dialog with multi select
+- Favorites: fixed open favorite playlist, manual adding and editing links for playlist, use "Add" in application menu to add favorite playlist
+- Record scheduler: data and program name was exchange in filename, fixed job state after restart application
+- Added http catalogues opening
+- Added clear timepoints after exit (settings)
+- Added remove catalogues from local disk
+- For developers: CPython upgrade 3.7.4 to 3.8.5, Add-On and Extensions extractions to local path always, new formal strings localization (old is deprecated), to Lua added ffi and cURL libraries
+- Other changes
+
 ## Version: 0.3.4
 
 - Added new video player (use as default) based on VLC library, which additions: playing  DVD / Blu-ray disk images; internal and external subtitles; external audio tracks; more settings
