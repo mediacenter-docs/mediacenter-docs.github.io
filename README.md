@@ -21,7 +21,7 @@
 
 Для получения оперативной информации об изменениях вы можете подписаться на <a href="http://t.me/mediacenter_iptv" target="_blank">Telegram-канал</a>
 
-![image-20210320085905104](images/t.png)
+![image-20210320085905104](images/t.jpg)
 
 ## Содержание
 
