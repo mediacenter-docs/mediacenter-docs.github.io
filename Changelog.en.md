@@ -1,5 +1,17 @@
 # "Mediacenter" - Changelog
 
+## Версия: 0.3.6
+
+- IPTV Player: teleguide integrated to channels list, added updating about current program, fixed show channel title while switching on up/down key, fixed rewind while watching telecast in record, added close channels list on select, fixed playing HLS with HTTP headers
+- TV program: database is reconstructed, fixed loading XMLTV format program (containing synonyms of channels)
+- Added hyperlinks to detailed page
+- Added thumbnails database size limitation (default is 300MB)
+- Added possibility to disable splash screen
+- Limited functions of voice-activated control are added (experimental, listens to teams at the pressed play button). In the main menu opens the section of global search. When watching IPTV changes channels. When watching video operates playing, teams: play, pause, stop, next, previous, forward, back, up, down.
+- The error of loading of addition at an application launch which can lead to emergency completion of operation of application is corrected
+- For developers: CPython upgrade 3.8.5 to 3.11.2, fixed ffi library in Lua
+- Other changes
+
 ## Version: 0.3.5
 
 - UI updated: background choice, icons, grouped, grid increase
